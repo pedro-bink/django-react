@@ -1,0 +1,2 @@
+from .department.departmentModelViewSet import DepartmentViewSet
+from .employee.employeeModelViewSet import EmployeeViewSet
